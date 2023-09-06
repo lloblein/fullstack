@@ -4,7 +4,7 @@ const app = express()
 
 
 app.get('/', (req, res) => {
-    console.log(`New feature`)
+    console.log(`New feature2`)
 })
 
 app.listen(port, () => {

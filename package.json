@@ -5,10 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Leonardo Gehlen Loblein",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
     "express": "^4.18.2"
   }
 }
